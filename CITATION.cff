@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: SoccerDream AI Graded Prediction Dataset
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - name: SoccerDream AI
+    website: https://soccerdreamai.com
+version: "2026.11"
+date-released: 2026-11-09
+license: CC-BY-4.0
+url: https://github.com/SoccerDreamAI/soccerdream-ai-dataset
+repository-code: https://github.com/SoccerDreamAI/soccerdream-ai-dataset
+abstract: >-
+  One thousand graded football predictions written before kickoff and scored
+  exactly once afterwards, with market-implied probabilities as a baseline.
+  Rows are append-only; failures are retained.
+keywords:
+  - football
+  - forecasting
+  - calibration
+  - brier score
+  - evaluation
